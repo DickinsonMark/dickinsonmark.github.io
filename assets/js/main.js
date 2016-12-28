@@ -23,6 +23,10 @@
 			$header = $('#header'),
 			$banner = $('#banner');
 
+      if (window.navigator.platform === 'MacIntel') {
+        $('#downloadLink').append('<a href="../files/darwin/" download class="special">Visit the Github Repo</a>')
+      }
+
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
 
