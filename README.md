@@ -1,6 +1,6 @@
-#Portfolio Website
+# Portfolio Website
 
-Made with _a lot_ of help from [html5up.net](html5up.net)!
+Made with help from [html5up.net](html5up.net)!
 
 ## license Information
 Free for personal and commercial use under the CCA 3.0 license [html5up.net/license](html5up.net/license)
